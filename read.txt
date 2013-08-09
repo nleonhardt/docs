@@ -1,0 +1,5 @@
+- Maven
+- SSL-Connection
+- Derby
+- JPA
+- SWT
